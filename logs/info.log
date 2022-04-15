@@ -1,0 +1,420 @@
+2022-04-15 15:42:56.891 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 6364 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 15:42:56.894 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 15:42:57.889 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 15:42:57.898 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 15:42:57.899 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 15:42:57.899 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 15:42:58.013 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 15:42:58.013 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1082 ms
+2022-04-15 15:42:58.781 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 15:42:58.915 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 15:42:59.257 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 15:42:59.275 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 15:42:59.285 [main] INFO  cn.hdj.fastboot.FastBootApplication - Started FastBootApplication in 2.901 seconds (JVM running for 3.36)
+2022-04-15 15:43:46.568 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-15 15:43:46.568 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-15 15:43:46.569 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-04-15 15:43:47.454 [http-nio-8080-exec-10] INFO  org.springdoc.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 149 ms
+2022-04-15 15:46:17.638 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 15:46:17.638 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 15:46:21.278 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 21376 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 15:46:21.281 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 15:46:22.268 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 15:46:22.276 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 15:46:22.277 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 15:46:22.277 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 15:46:22.390 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 15:46:22.391 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1075 ms
+2022-04-15 15:46:23.132 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 15:46:23.263 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 15:46:23.590 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 15:46:23.610 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 15:46:23.617 [main] INFO  cn.hdj.fastboot.FastBootApplication - Started FastBootApplication in 2.841 seconds (JVM running for 3.291)
+2022-04-15 15:46:37.670 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-15 15:46:37.670 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-15 15:46:37.671 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-04-15 15:46:38.024 [http-nio-8080-exec-4] INFO  org.springdoc.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 185 ms
+2022-04-15 15:47:05.918 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 15:47:05.918 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 15:47:12.591 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 19916 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 15:47:12.595 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 15:47:13.615 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 15:47:13.626 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 15:47:13.626 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 15:47:13.627 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 15:47:13.751 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 15:47:13.751 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1118 ms
+2022-04-15 15:47:14.524 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 15:47:14.665 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 15:47:15.005 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 15:47:15.026 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 15:47:15.033 [main] INFO  cn.hdj.fastboot.FastBootApplication - Started FastBootApplication in 2.958 seconds (JVM running for 3.49)
+2022-04-15 15:48:01.308 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 15:48:01.309 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 15:48:03.536 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 22112 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 15:48:03.538 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 15:48:04.566 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 15:48:04.575 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 15:48:04.575 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 15:48:04.575 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 15:48:04.687 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 15:48:04.687 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1113 ms
+2022-04-15 15:48:05.574 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 15:48:05.709 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 15:48:06.038 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 15:48:06.057 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 15:48:06.065 [main] INFO  cn.hdj.fastboot.FastBootApplication - Started FastBootApplication in 3.029 seconds (JVM running for 3.494)
+2022-04-15 15:48:09.582 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-15 15:48:09.582 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-15 15:48:09.583 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-04-15 15:48:20.027 [http-nio-8080-exec-5] INFO  org.springdoc.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 171 ms
+2022-04-15 16:12:49.792 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 16:12:49.793 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 16:12:53.749 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 19204 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 16:12:53.752 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 16:12:54.772 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 16:12:54.781 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:12:54.781 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 16:12:54.781 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 16:12:54.889 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 16:12:54.890 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1102 ms
+2022-04-15 16:12:55.657 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 16:12:55.790 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 16:12:56.138 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:12:56.160 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 16:12:56.172 [main] INFO  cn.hdj.fastboot.FastBootApplication - Started FastBootApplication in 2.921 seconds (JVM running for 3.405)
+2022-04-15 16:13:07.774 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-15 16:13:07.774 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-15 16:13:07.775 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-04-15 16:13:08.779 [http-nio-8080-exec-3] INFO  org.springdoc.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 193 ms
+2022-04-15 16:24:15.041 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 16:24:15.042 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 16:24:22.081 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 16796 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 16:24:22.084 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 16:24:23.203 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 16:24:23.214 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:24:23.215 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 16:24:23.215 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 16:24:23.327 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 16:24:23.327 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1206 ms
+2022-04-15 16:24:23.419 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-04-15 16:24:23.500 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-04-15 16:29:23.123 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 24616 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 16:29:23.127 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 16:29:24.664 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 16:29:24.676 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:29:24.677 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 16:29:24.678 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 16:29:24.814 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 16:29:24.815 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1629 ms
+2022-04-15 16:29:25.764 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 16:29:25.899 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 16:29:26.247 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:29:26.269 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 16:29:26.277 [main] INFO  cn.hdj.fastboot.FastBootApplication - Started FastBootApplication in 3.997 seconds (JVM running for 4.579)
+2022-04-15 16:30:01.977 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-15 16:30:01.977 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-15 16:30:01.978 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-04-15 16:30:02.872 [http-nio-8080-exec-8] INFO  org.springdoc.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 141 ms
+2022-04-15 16:30:06.981 [http-nio-8080-exec-10] INFO  org.springdoc.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 33 ms
+2022-04-15 16:32:57.598 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 16:32:57.598 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 16:33:00.883 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 18000 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 16:33:00.886 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 16:33:01.900 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 16:33:01.908 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:33:01.908 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 16:33:01.908 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 16:33:02.023 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 16:33:02.023 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1101 ms
+2022-04-15 16:33:02.834 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 16:33:02.970 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 16:33:03.301 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:33:03.321 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 16:33:03.328 [main] INFO  cn.hdj.fastboot.FastBootApplication - Started FastBootApplication in 2.94 seconds (JVM running for 3.475)
+2022-04-15 16:33:59.324 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-15 16:33:59.324 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-15 16:33:59.325 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-04-15 16:33:59.576 [http-nio-8080-exec-2] INFO  org.springdoc.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 150 ms
+2022-04-15 16:37:19.861 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 16:37:19.862 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 16:38:00.624 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 21512 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 16:38:00.627 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 16:38:01.860 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 16:38:01.868 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:38:01.868 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 16:38:01.868 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 16:38:02.003 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 16:38:02.003 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1337 ms
+2022-04-15 16:38:02.574 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 16:38:02.724 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 16:38:03.031 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:38:03.048 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 16:38:03.052 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 16:38:03.053 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 16:38:03.146 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:38:03.147 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-04-15 16:38:03.149 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:38:03.151 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:38:03.156 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-04-15 16:38:20.099 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 1632 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 16:38:20.102 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 16:38:21.310 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 16:38:21.318 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:38:21.319 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 16:38:21.319 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 16:38:21.446 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 16:38:21.446 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1306 ms
+2022-04-15 16:38:21.995 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 16:38:22.135 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 16:38:22.444 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:38:22.463 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 16:38:22.468 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 16:38:22.469 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 16:38:22.570 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:38:22.570 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-04-15 16:38:22.573 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:38:22.574 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:38:22.579 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-04-15 16:44:53.815 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 8356 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 16:44:53.818 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 16:44:54.827 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 16:44:54.836 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:44:54.836 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 16:44:54.836 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 16:44:54.948 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 16:44:54.948 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1092 ms
+2022-04-15 16:44:55.784 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 16:44:55.919 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 16:44:56.260 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:44:56.281 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 16:44:56.288 [main] INFO  cn.hdj.fastboot.FastBootApplication - Started FastBootApplication in 2.98 seconds (JVM running for 3.45)
+2022-04-15 16:45:00.422 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-15 16:45:00.423 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-15 16:45:00.423 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2022-04-15 16:47:24.531 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 16:47:24.531 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 16:47:27.547 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 17552 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 16:47:27.550 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 16:47:28.577 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 16:47:28.585 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:47:28.585 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 16:47:28.585 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 16:47:28.692 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 16:47:28.692 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1104 ms
+2022-04-15 16:47:29.494 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 16:47:29.640 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 16:47:29.998 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:47:30.019 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 16:47:30.026 [main] INFO  cn.hdj.fastboot.FastBootApplication - Started FastBootApplication in 2.991 seconds (JVM running for 3.471)
+2022-04-15 16:47:35.752 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 16:47:35.752 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 16:47:43.196 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 21376 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 16:47:43.199 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 16:47:44.280 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 16:47:44.288 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:47:44.289 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 16:47:44.289 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 16:47:44.400 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 16:47:44.400 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1160 ms
+2022-04-15 16:47:45.231 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 16:47:45.363 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 16:47:45.696 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:47:45.715 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 16:47:45.722 [main] INFO  cn.hdj.fastboot.FastBootApplication - Started FastBootApplication in 3.222 seconds (JVM running for 3.778)
+2022-04-15 16:47:51.374 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-15 16:47:51.374 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-15 16:47:51.375 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-04-15 16:51:00.902 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 16:51:00.903 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 16:51:05.768 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 25496 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 16:51:05.771 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 16:51:07.193 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 16:51:07.207 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:51:07.208 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 16:51:07.208 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 16:51:07.360 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 16:51:07.360 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1550 ms
+2022-04-15 16:51:08.315 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 16:51:08.464 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 16:51:08.824 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:51:08.848 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 16:51:08.857 [main] INFO  cn.hdj.fastboot.FastBootApplication - Started FastBootApplication in 3.594 seconds (JVM running for 4.074)
+2022-04-15 16:51:16.572 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-15 16:51:16.572 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-15 16:51:16.573 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-04-15 16:53:03.974 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 16:53:03.975 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 16:53:07.717 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 23188 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 16:53:07.720 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 16:53:08.760 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 16:53:08.771 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:53:08.772 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 16:53:08.772 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 16:53:08.901 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 16:53:08.908 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1150 ms
+2022-04-15 16:53:09.689 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 16:53:09.821 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 16:53:10.154 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:53:10.174 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 16:53:10.182 [main] INFO  cn.hdj.fastboot.FastBootApplication - Started FastBootApplication in 2.973 seconds (JVM running for 3.432)
+2022-04-15 16:53:32.393 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 16:53:32.394 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 16:53:34.455 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 24008 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 16:53:34.457 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 16:53:35.481 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 16:53:35.492 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:53:35.493 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 16:53:35.493 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 16:53:35.606 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 16:53:35.606 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1114 ms
+2022-04-15 16:53:36.334 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 16:53:36.479 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 16:53:36.819 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:53:36.837 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 16:53:36.846 [main] INFO  cn.hdj.fastboot.FastBootApplication - Started FastBootApplication in 2.893 seconds (JVM running for 3.343)
+2022-04-15 16:53:41.108 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-15 16:53:41.108 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-15 16:53:41.109 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2022-04-15 16:53:41.669 [http-nio-8080-exec-3] INFO  org.springdoc.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 173 ms
+2022-04-15 16:53:51.685 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 16:53:51.686 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 16:53:53.943 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 24712 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 16:53:53.946 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 16:53:54.990 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 16:53:54.999 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:53:54.999 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 16:53:55.000 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 16:53:55.113 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 16:53:55.113 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1132 ms
+2022-04-15 16:53:55.860 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 16:53:55.997 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 16:53:56.326 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:53:56.345 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 16:53:56.353 [main] INFO  cn.hdj.fastboot.FastBootApplication - Started FastBootApplication in 2.904 seconds (JVM running for 3.395)
+2022-04-15 16:53:58.609 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-15 16:53:58.609 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-15 16:53:58.610 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-04-15 16:54:09.048 [http-nio-8080-exec-9] INFO  org.springdoc.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 156 ms
+2022-04-15 16:54:20.516 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 16:54:20.516 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 16:54:22.802 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 16796 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 16:54:22.805 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 16:54:23.812 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 16:54:23.821 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:54:23.821 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 16:54:23.821 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 16:54:23.935 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 16:54:23.935 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1097 ms
+2022-04-15 16:54:24.666 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 16:54:24.810 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 16:54:25.145 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 16:54:25.164 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 16:54:25.171 [main] INFO  cn.hdj.fastboot.FastBootApplication - Started FastBootApplication in 2.943 seconds (JVM running for 3.458)
+2022-04-15 16:54:30.696 [http-nio-8080-exec-3] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-15 16:54:30.696 [http-nio-8080-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-15 16:54:30.697 [http-nio-8080-exec-3] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-04-15 16:54:31.438 [http-nio-8080-exec-2] INFO  org.springdoc.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 147 ms
+2022-04-15 17:11:03.823 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 17:11:03.824 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 17:11:07.717 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 412 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 17:11:07.720 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 17:11:08.838 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 17:11:08.847 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 17:11:08.848 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 17:11:08.848 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 17:11:08.967 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 17:11:08.968 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1209 ms
+2022-04-15 17:11:09.734 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 17:11:09.899 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 17:11:10.253 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 17:11:10.274 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 17:11:10.282 [main] INFO  cn.hdj.fastboot.FastBootApplication - Started FastBootApplication in 3.098 seconds (JVM running for 3.594)
+2022-04-15 17:11:15.588 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-15 17:11:15.588 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-15 17:11:15.589 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-04-15 17:11:16.601 [http-nio-8080-exec-9] INFO  org.springdoc.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 227 ms
+2022-04-15 17:13:14.795 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 17:13:14.796 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 17:16:51.414 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 25380 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 17:16:51.417 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 17:16:52.521 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 17:16:52.529 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 17:16:52.530 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 17:16:52.530 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 17:16:52.638 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 17:16:52.638 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1183 ms
+2022-04-15 17:16:53.507 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 17:16:53.651 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 17:16:53.990 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 17:16:54.012 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 17:16:54.020 [main] INFO  cn.hdj.fastboot.FastBootApplication - Started FastBootApplication in 3.117 seconds (JVM running for 3.666)
+2022-04-15 17:16:59.667 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-15 17:16:59.667 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-15 17:16:59.668 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-04-15 17:17:00.171 [http-nio-8080-exec-2] INFO  org.springdoc.api.AbstractOpenApiResource - Init duration for springdoc-openapi is: 146 ms
+2022-04-15 17:23:11.234 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 17:23:11.235 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 17:39:53.686 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 25312 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 17:39:53.689 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 17:39:55.004 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 17:39:55.012 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 17:39:55.013 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 17:39:55.013 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 17:39:55.155 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 17:39:55.156 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1426 ms
+2022-04-15 17:39:55.780 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 17:39:55.940 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 17:39:56.319 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 17:39:56.342 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 17:39:56.347 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 17:39:56.348 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 17:39:56.445 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2022-04-15 17:39:56.445 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2022-04-15 17:39:56.448 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2022-04-15 17:39:56.450 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
+2022-04-15 17:39:56.456 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-04-15 17:45:58.556 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 12352 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 17:45:58.559 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 17:45:59.924 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 17:45:59.933 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 17:45:59.934 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 17:45:59.934 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 17:46:00.064 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 17:46:00.064 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1463 ms
+2022-04-15 17:46:00.632 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 17:46:00.779 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 17:46:01.092 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 17:46:01.111 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 17:46:01.152 [main] INFO  cn.hdj.fastboot.FastBootApplication - Started FastBootApplication in 3.088 seconds (JVM running for 3.647)
+2022-04-15 17:46:14.113 [http-nio-8080-exec-2] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-15 17:46:14.114 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-15 17:46:14.114 [http-nio-8080-exec-2] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2022-04-15 17:47:51.095 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 17:47:51.096 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2022-04-15 17:47:55.154 [main] INFO  cn.hdj.fastboot.FastBootApplication - Starting FastBootApplication using Java 1.8.0_275 on yml with PID 15628 (D:\IDEA\fast-boot\target\classes started by cloud-inman in D:\IDEA\fast-boot)
+2022-04-15 17:47:55.156 [main] INFO  cn.hdj.fastboot.FastBootApplication - The following 1 profile is active: "dev"
+2022-04-15 17:47:56.411 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2022-04-15 17:47:56.421 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2022-04-15 17:47:56.422 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2022-04-15 17:47:56.422 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-15 17:47:56.555 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2022-04-15 17:47:56.555 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1359 ms
+2022-04-15 17:47:57.099 [main] INFO  c.a.d.s.b.a.DruidDataSourceAutoConfigure - Init DruidDataSource
+2022-04-15 17:47:57.241 [main] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2022-04-15 17:47:57.562 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2022-04-15 17:47:57.580 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-15 17:47:57.680 [main] INFO  cn.hdj.fastboot.FastBootApplication - Started FastBootApplication in 3.053 seconds (JVM running for 3.571)
+2022-04-15 17:48:00.182 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-15 17:48:00.182 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2022-04-15 17:48:00.183 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2022-04-15 18:31:08.217 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2022-04-15 18:31:08.218 [SpringApplicationShutdownHook] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
