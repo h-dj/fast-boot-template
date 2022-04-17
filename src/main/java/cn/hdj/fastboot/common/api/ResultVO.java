@@ -1,5 +1,6 @@
 package cn.hdj.fastboot.common.api;
 
+import cn.hdj.fastboot.modules.test.domain.ICacheEntity;
 import lombok.Data;
 
 import java.io.Serializable;
@@ -10,7 +11,7 @@ import java.io.Serializable;
  * @Date 2022/4/15 14:28
  */
 @Data
-public class ResultVO implements Serializable {
+public class ResultVO implements  Serializable {
 
     private static final long serialVersionUID = 1348172152215944560L;
 
