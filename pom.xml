@@ -107,6 +107,27 @@
 						</exclude>
 					</excludes>
 				</configuration>
+
+			</plugin>
+
+
+			<!-- 一个命令更新版本，mvn versions:set -DnewVersion=1.2-SNAPSHOT -->
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>versions-maven-plugin</artifactId>
+				<configuration>
+					<generateBackupPoms>false</generateBackupPoms>
+				</configuration>
+			</plugin>
+
+			<!-- 脚手架插件 -->
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-archetype-plugin</artifactId>
+				<configuration>
+					<encoding>utf-8</encoding>
+				</configuration>
+				<version>3.2.1</version>
 			</plugin>
 
 		</plugins>
