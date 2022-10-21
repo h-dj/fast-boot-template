@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>cn.hdj</groupId>
-	<artifactId>x-boot-template</artifactId>
+	<artifactId>fast-boot-template</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>x-boot-template</name>
+	<name>fast-boot-template</name>
 	<description>A Fast SpringBoot Project Template</description>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
