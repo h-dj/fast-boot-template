@@ -1,0 +1,36 @@
+# -------------------------------------------------------------
+# ----- 数据源配置文件 -----
+# ----- [datasource-*]  表示分组， 以datasource- 为前缀识别
+# -------------------------------------------------------------
+[datasource-oracle]
+dataSource.url=jdbc:oracle:thin:@localhost:1521:trade
+dataSource.driverName=oracle.jdbc.driver.OracleDriver
+dataSource.username=root
+dataSource.password=123456
+
+
+[datasource-mysql]
+dataSource.url=jdbc:mysql://localhost:3306/distribute_id?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+dataSource.driverName=com.mysql.cj.jdbc.Driver
+dataSource.username=root
+dataSource.password=root@01234560
+
+
+
+# -------------------------------------------------------------
+# ----- 项目生成配置 会覆盖原文件-----
+# -------------------------------------------------------------
+[project-config]
+#父包名
+project.module.parent = cn.hdj.fastboot.modules
+#模块名称
+project.module.name = test
+# 包含表名, include.table.names  和  exclude.table.names 只能设置一个
+project.include.table.names =
+# 排除表名
+project.exclude.table.names =
+# 作者
+project.author = huangjiajian
+# 输出目录
+project.src.path = D:\IDEA\fast-boot-template\target
+project.xml.path = D:\IDEA\fast-boot-template\target
